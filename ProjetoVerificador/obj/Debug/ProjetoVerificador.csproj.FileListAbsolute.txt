@@ -1,0 +1,12 @@
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\bin\Debug\ProjetoVerificador.exe.config
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\bin\Debug\ProjetoVerificador.exe
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\bin\Debug\ProjetoVerificador.pdb
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\bin\Debug\Telegram.Bot.dll
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\bin\Debug\Telegram.Bot.xml
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\obj\Debug\ProjetoVerificador.csprojAssemblyReference.cache
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\obj\Debug\ProjetoVerificador.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\obj\Debug\ProjetoVerificador.csproj.CopyComplete
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\obj\Debug\ProjetoVerificador.exe
+C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\obj\Debug\ProjetoVerificador.pdb
