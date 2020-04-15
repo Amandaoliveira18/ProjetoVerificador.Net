@@ -16,9 +16,10 @@ namespace ProjetoVerificador.VerificadoresDeArquivos
 
         }
 
-
-
-
+        public override void GetProcurarArquivo()
+        {
+            
+        }
     }
 }
 

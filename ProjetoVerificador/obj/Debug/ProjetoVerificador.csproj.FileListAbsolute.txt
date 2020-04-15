@@ -10,3 +10,15 @@ C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVe
 C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\obj\Debug\ProjetoVerificador.csproj.CopyComplete
 C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\obj\Debug\ProjetoVerificador.exe
 C:\Users\Amanda Santos\Documents\ProjetoVerificador\ProjetoVerificador\ProjetoVerificador\obj\Debug\ProjetoVerificador.pdb
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\bin\Debug\ProjetoVerificador.exe.config
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\bin\Debug\ProjetoVerificador.exe
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\bin\Debug\ProjetoVerificador.pdb
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\bin\Debug\Telegram.Bot.dll
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\bin\Debug\Telegram.Bot.xml
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\obj\Debug\ProjetoVerificador.csprojAssemblyReference.cache
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\obj\Debug\ProjetoVerificador.csproj.CoreCompileInputs.cache
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\obj\Debug\ProjetoVerificador.csproj.CopyComplete
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\obj\Debug\ProjetoVerificador.exe
+C:\Users\800043727\Documents\Projeto\ProjetoVerificador.Net\ProjetoVerificador\obj\Debug\ProjetoVerificador.pdb

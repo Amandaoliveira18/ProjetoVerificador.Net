@@ -10,7 +10,6 @@ namespace ProjetoVerificador.VerificadoresDeArquivos
 {
     public abstract class VerificadorArquivos
     {
-        private static readonly TelegramBotClient Bot = new TelegramBotClient("1190870071:AAG0HcCaM35-BmLs_dcE0RBVoHy24JUdSdo");
         public string Path { get; }
         public string Horario_de_Verificacao_Inicial { get; }
         public string Horario_de_Verificacao_Final { get; }
@@ -67,19 +66,8 @@ namespace ProjetoVerificador.VerificadoresDeArquivos
         }
 
 
-        public void GetProcurarArquivo()
-        {
-            if (File.Exists(Path))
-            {
-                Bot.SendTextMessageAsync(-440643858, "   O Arquivo:" + Path + "  Existe");
-
-            }
-            else
-            {
-                Bot.SendTextMessageAsync(-440643858, "   O Arquivo:" + Path + "  Não Existe");
-
-            }
-        }
+        public abstract void GetProcurarArquivo();
+       
 
 
 
