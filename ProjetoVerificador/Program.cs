@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Telegram.Bot;
 
 namespace ProjetoVerificador
 {
@@ -24,18 +25,14 @@ namespace ProjetoVerificador
 
 
             VerificadorArquivos amanda_jpg = new VerificadorArquivo_amanda_jpg();
-            amanda_jpg.VerificarDiasDaSemana();
-
             VerificadorArquivos amanda_txt = new VerificadorArquivo_amanda_txt();
-            amanda_txt.VerificarDiasDaSemana();
-
-
             VerificadorArquivos silva_txt = new VerificadorArquivo_silva_txt();
+
+            amanda_jpg.VerificarDiasDaSemana();
+            amanda_txt.VerificarDiasDaSemana();
             silva_txt.VerificarDiasDaSemana();
-            Console.ReadLine();
-           
 
-
+          
 
             // var botClient = new TelegramBotClient("1190870071:AAG0HcCaM35-BmLs_dcE0RBVoHy24JUdSdo");
             //  var me = botClient.GetMeAsync().Result;
@@ -47,21 +44,21 @@ namespace ProjetoVerificador
             //chat id: -440643858
 
 
-          
+
 
 
         }
 
-    //private static void Bot_OnMessage(object sender, Telegram.Bot.Args.MessageEventArgs e)
-    //{
-    //    if (e.Message.Type == Telegram.Bot.Types.Enums.MessageType.Text)
-    //    {
-    //        Bot.SendTextMessageAsync(e.Message.Chat.Id, "Tudo bem e voce?");
-    //    }
+             //private static void Bot_OnMessage(object sender, Telegram.Bot.Args.MessageEventArgs e)
+             //{
+            //    if (e.Message.Type == Telegram.Bot.Types.Enums.MessageType.Text)
+            //    {
+            //        Bot.SendTextMessageAsync(e.Message.Chat.Id, "Tudo bem e voce?");
+            //    }
 
 
 
-    //}
+            //}
 
     }
 }
